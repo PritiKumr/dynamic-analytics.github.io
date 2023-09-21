@@ -1,9 +1,9 @@
 # Site settings
-title: Your Title Here
+title: Dynamic Analytics
 description: > # this means to ignore newlines until "baseurl:"
 repository: vvalchev/creative-theme-jekyll-new
 baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
-url: "dynamic-analytics.github.io" # the base hostname & protocol for your site
+url: dynamic-analytics.github.io # the base hostname & protocol for your site
 author: Copyright &copy; 2019 - Start Bootstrap
 lang: en_US
 
