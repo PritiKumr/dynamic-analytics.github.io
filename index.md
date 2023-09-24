@@ -46,7 +46,7 @@ sections:
         text: Expertise in  IT software, web and mobile applications
         icon: bi-emoji-heart-eyes
       - title: Project Management
-        text: Project management services.
+        text: Project management services
         Support for IT projects and research projects
         icon: bi-emoji-sunglasses-fill
 
