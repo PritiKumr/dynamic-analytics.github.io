@@ -61,30 +61,30 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-       - title: -
+       - title: A
         text: Allstate Corporation
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-       - title: -
+       - title: A
         text: Toshiba Europe Ltd
         icon: 2.jpg
         url: '#'
-       - title: -
+       - title: A
         text: Allianz Global Corporate
         icon: 3.jpg
         url: '#'
-       - title: -
+       - title: A
         text: Deloitte
         icon: 4.jpg
         url: '#'
-       - title: -
+       - title: A
         text: Medical Imaging Research Center
         icon: 5.jpg
         url: '#'
-       - title: -
+       - title: A
         text: Shopify Inc.
         icon: 6.jpg
         url: '#'
