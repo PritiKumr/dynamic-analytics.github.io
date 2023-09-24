@@ -8,7 +8,7 @@ header:
     Unlock the potential of your company with our expertise.
 
   action: # action button is optional
-    label: Find Out More
+    label: ABOUT US
     url: '#about'
 
 
@@ -16,8 +16,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Our Mission: To empower organizations with data-driven insights!
+    text: At DYNAMIC ANALYTICS, we are passionate about data and technology. With years of experience in the field, our team of experts is committed to delivering innovative solutions that drive results for our clients.
     actions:
       - title: Get Started!
         url: '#page-top'
