@@ -37,7 +37,6 @@ sections:
         icon: bi-rocket-takeoff
       - title: Insurance Expertise
         text: Expertise in pricing, provisioning, contract and risk analysis for P&C insurance companies
-
         icon: bi-activity
       - title: Signal and Image Processing
         text: Expertise in signal and image processing for cutting-edge solutions in visual analysis and interpretation
@@ -46,8 +45,7 @@ sections:
         text: Expertise in  IT software, web and mobile applications
         icon: bi-emoji-heart-eyes
       - title: Project Management
-        text: Project management services
-        Support for IT projects and research projects
+        text: Project management services. Support for IT projects and research projects
         icon: bi-emoji-sunglasses-fill
 
   - type: portfolio.html
