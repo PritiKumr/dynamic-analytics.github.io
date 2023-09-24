@@ -58,7 +58,7 @@ sections:
   - type: portfolio.html
     # this section has always ID 'portfolio'
     section_id: portfolio
-    #background_style: bg-dark
+    background_style: bg-dark
     projects:
        - title: A
         text: Allstate Corporation
