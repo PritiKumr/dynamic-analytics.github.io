@@ -61,7 +61,7 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Allstate Corporation
+      # - title: Allstate Corporation
         text: Allstate Corporation
         # the images are located in:
         # img/portfolio/fullsize
