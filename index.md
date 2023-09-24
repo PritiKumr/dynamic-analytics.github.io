@@ -16,7 +16,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: Our Mission: To empower organizations with data-driven insights!
+    title: Our Mission, To empower organizations with data-driven insights!
     text: At DYNAMIC ANALYTICS, we are passionate about data and technology. With years of experience in the field, our team of experts is committed to delivering innovative solutions that drive results for our clients.
     actions:
       - title: Get Started!
