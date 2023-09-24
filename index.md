@@ -50,7 +50,7 @@ sections:
 
   - type: aside.html
     section_id: aside
-    - title: Our Teams Worked With 
+    title: Our Teams Worked With 
     # actions: 
       # - title: Download Now!
         # url: https://startbootstrap.com/themes/creative/
