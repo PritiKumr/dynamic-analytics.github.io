@@ -62,30 +62,30 @@ sections:
     #background_style: bg-dark
     projects:
       - title: Allstate Corporation
-        text: This is a very short project description.
+        text: Allstate Corporation
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Toshiba Europe Ltd
-        text: This is a very short project description.
+      # - title: Toshiba Europe Ltd
+        text: Toshiba Europe Ltd
         icon: 2.jpg
         url: '#'
-      - title: Allianz Global Corporate
-        text: This is a very short project description.
+      # - title: Allianz Global Corporate
+        text: Allianz Global Corporate
         icon: 3.jpg
         url: '#'
-      - title: Deloitte
-        text: This is a very short project description.
+      # - title: Deloitte
+        text: Deloitte
         icon: 4.jpg
         url: '#'
-      - title: Medical Imaging Research Center
-        text: This is a very short project description.
+      # - title: Medical Imaging Research Center
+        text: Medical Imaging Research Center
         icon: 5.jpg
         url: '#'
-      - title: Shopify Inc.
-        text: This is a very short project description.
+      # - title: Shopify Inc.
+        text: Shopify Inc.
         icon: 6.jpg
         url: '#'
 
