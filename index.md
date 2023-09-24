@@ -47,7 +47,6 @@ sections:
       - title: Project Management
         text: Project management services. Support for IT projects and research projects
         icon: bi-emoji-sunglasses-fill
-
   - type: aside.html
     section_id: aside
     title: Our Teams Worked With 
