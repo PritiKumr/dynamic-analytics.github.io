@@ -48,6 +48,14 @@ sections:
         text: Project management services. Support for IT projects and research projects
         icon: bi-emoji-sunglasses-fill
 
+  - type: aside.html
+    section_id: aside
+    title: Free Download at Start Bootstrap!
+    actions:
+      - title: Download Now!
+        url: https://startbootstrap.com/themes/creative/
+        class: btn-light
+        
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
@@ -80,14 +88,6 @@ sections:
         text: This is a very short project description.
         icon: 6.jpg
         url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
 
   - type: members.html
     section_id: members
