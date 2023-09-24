@@ -33,7 +33,7 @@ sections:
         icon: bi-gem text-info
         url: https://startbootstrap.com/
       - title: Data Engineering
-        text:Actionable insights from your data through advanced modeling and predictive analysis
+        text: Actionable insights from your data through advanced modeling and predictive analysis
         icon: bi-rocket-takeoff
       - title: Insurance Expertise
         text: Expertise in pricing, provisioning, contract and risk analysis for P&C insurance companies
