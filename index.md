@@ -26,26 +26,28 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Our Services
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Data Science
+        text: Art of data interpretation, AI, ML, and NLP, offering valuable insights from complex datasets
         icon: bi-gem text-info
         url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: Data Engineering
+        text:Actionable insights from your data through advanced modeling and predictive analysis
         icon: bi-rocket-takeoff
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: Insurance Expertise
+        text: Expertise in pricing, provisioning, contract and risk analysis for P&C insurance companies
+
         icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+      - title: Signal and Image Processing
+        text: Expertise in signal and image processing for cutting-edge solutions in visual analysis and interpretation
         icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
+      - title: Software Development
+        text: Expertise in  IT software, web and mobile applications
         icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
+      - title: Project Management
+        text: Project management services.
+        Support for IT projects and research projects
         icon: bi-emoji-sunglasses-fill
 
   - type: portfolio.html
