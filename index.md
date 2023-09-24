@@ -119,7 +119,7 @@ sections:
         image: assets/img/members/person7.jpg
         url: '#'
 
-  - type: timeline.html
+ # - type: timeline.html
     section_id: timeline
     title: Major Achievements!
     background_style: bg-dark text-primary
