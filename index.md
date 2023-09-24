@@ -61,30 +61,30 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
+      - title: Allstate Corporation
         text: This is a very short project description.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
+      - title: Toshiba Europe Ltd
         text: This is a very short project description.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
+      - title: Allianz Global Corporate
         text: This is a very short project description.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
+      - title: Deloitte
         text: This is a very short project description.
         icon: 4.jpg
         url: '#'
-      - title: Project 5
+      - title: Medical Imaging Research Center
         text: This is a very short project description.
         icon: 5.jpg
         url: '#'
-      - title: Project 6
+      - title: Shopify Inc.
         text: This is a very short project description.
         icon: 6.jpg
         url: '#'
