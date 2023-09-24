@@ -51,7 +51,7 @@ sections:
   - type: aside.html
     section_id: aside
     title: Our Teams Worked With 
-    # actions:
+    # actions: 
       # - title: Download Now!
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
