@@ -53,8 +53,8 @@ sections:
     title: Our Teams Worked With 
     # actions: 
       # - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+        # url: https://startbootstrap.com/themes/creative/
+        # class: btn-light
         
   - type: portfolio.html
     # this section has always ID 'portfolio'
