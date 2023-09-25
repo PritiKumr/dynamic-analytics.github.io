@@ -6,12 +6,9 @@ header:
     your trusted partner for data engineering, modeling, predictive analysis, IT    
     development and more. 
     Unlock the potential of your company with our expertise.
-
   action: # action button is optional
     label: ABOUT US
     url: '#about'
-
-
 sections:
   - type: call-to-action.html
     section_id: about
@@ -22,7 +19,6 @@ sections:
       - title: Get Started!
         url: '#page-top'
         class: btn-light
-
   - type: services.html
     section_id: services
     #background_style: bg-info
@@ -47,46 +43,55 @@ sections:
       - title: Project Management
         text: Project management services. Support for IT projects and research projects
         icon: bi-emoji-sunglasses-fill
+
   - type: aside.html
     section_id: aside
-    title: Our Teams Worked With 
-    actions: 
+    title: Free Download at Start Bootstrap!
+    actions:
       - title: Download Now!
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
-        
+
   - type: portfolio.html
     # this section has always ID 'portfolio'
-    section_id: portfolio
-    background_style: bg-dark
+    #section_id: portfolio
+    #background_style: bg-dark
     projects:
-      - title: A
-        text: Allstate Corporation
+      - title: Project 1
+        text: This is a very short project description.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: A
-        text: Toshiba Europe Ltd
+      - title: Project 2
+        text: This is a very short project description.
         icon: 2.jpg
         url: '#'
-      - title: A
-        text: Allianz Global Corporate
+      - title: Project 3
+        text: This is a very short project description.
         icon: 3.jpg
         url: '#'
-     - title: A
-       text: Deloitte
-       icon: 4.jpg
-       url: '#'
-     - title: A
-       text: Medical Imaging Research Center
-       icon: 5.jpg
-       url: '#'
-     - title: A
-       text: Shopify Inc.
-       icon: 6.jpg
-       url: '#'
+      - title: Project 4
+        text: This is a very short project description.
+        icon: 4.jpg
+        url: '#'
+      - title: Project 5
+        text: This is a very short project description.
+        icon: 5.jpg
+        url: '#'
+      - title: Project 6
+        text: This is a very short project description.
+        icon: 6.jpg
+        url: '#'
+
+  - type: aside.html
+    section_id: aside
+    title: Free Download at Start Bootstrap!
+    actions:
+      - title: Download Now!
+        url: https://startbootstrap.com/themes/creative/
+        class: btn-light
 
   - type: members.html
     section_id: members
@@ -117,8 +122,7 @@ sections:
         text: PR.
         image: assets/img/members/person7.jpg
         url: '#'
-
- - type: timeline.html
+  - type: timeline.html
     section_id: timeline
     title: Major Achievements!
     background_style: bg-dark text-primary
@@ -138,7 +142,6 @@ sections:
         text: >-
           We started to gather like minded people and started our stategies
           and future plans to them. As a result , interested people joined us!
-
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
@@ -157,5 +160,4 @@ sections:
     - title: Facebook
       icon: bi-facebook
       url: '#'
-
 ---
