@@ -26,7 +26,7 @@ sections:
     services:
       - title: Data Science
         text: Art of data interpretation, AI, ML, and NLP, offering valuable insights from complex datasets
-        icon: &#xF3E6;
+        icon: bi-gem text-info
         url: https://startbootstrap.com/
       - title: Data Engineering
         text: Actionable insights from your data through advanced modeling and predictive analysis
@@ -36,7 +36,7 @@ sections:
         icon: bi-activity
       - title: Signal and Image Processing
         text: Expertise in signal and image processing for cutting-edge solutions in visual analysis and interpretation
-        icon: bi-heart-fill
+        icon: bi-image
       - title: Software Development
         text: Expertise in  IT software, web and mobile applications
         icon: bi-emoji-heart-eyes
