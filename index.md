@@ -36,7 +36,7 @@ sections:
         icon: bi-activity
       - title: Signal and Image Processing
         text: Expertise in signal and image processing for cutting-edge solutions in visual analysis and interpretation
-        icon: bi-heart-fill
+        icon: bi bi-image
       - title: Software Development
         text: Expertise in  IT software, web and mobile applications
         icon: bi-emoji-heart-eyes
