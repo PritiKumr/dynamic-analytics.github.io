@@ -64,7 +64,7 @@ sections:
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
+      - title: -
         text: This is a very short project description.
         icon: 2.jpg
         url: '#'
