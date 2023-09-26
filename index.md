@@ -30,7 +30,7 @@ sections:
         url: https://startbootstrap.com/
       - title: Data Engineering
         text: Actionable insights from your data through advanced modeling and predictive analysis
-        icon: bi-rocket-takeoff
+        icon: bi bi-gear
       - title: Insurance Expertise
         text: Expertise in pricing, provisioning, contract and risk analysis for P&C insurance companies
         icon: bi bi-graph-up-arrow
@@ -39,10 +39,10 @@ sections:
         icon: bi bi-image
       - title: Software Development
         text: Expertise in  IT software, web and mobile applications
-        icon: bi-emoji-heart-eyes
+        icon: bi bi-code-slash
       - title: Project Management
         text: Project management services. Support for IT projects and research projects
-        icon: bi-emoji-sunglasses-fill
+        icon: bi bi-person-fill-check
 
 
   - type: aside.html
