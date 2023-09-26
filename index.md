@@ -62,27 +62,27 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: 11.png
         url: '#'
       - title: Company 2
-        text: Allstate Corporation.
-        icon: 2.jpg
+        text: Toshiba Research Europe Ltd.
+        icon: 22.png
         url: '#'
       - title: Company 3
-        text: Toshiba Research Europe Ltd.
-        icon: 3.jpg
+        text: Allstate Corporation.
+        icon: 33.png
         url: '#'
       - title: Company 4
         text: Deloitte.
-        icon: 4.jpg
+        icon: 44.png
         url: '#'
       - title: Company 5
         text: Medical Imaging Research Center.
-        icon: 5.jpg
+        icon: 55.jpeg
         url: '#'
       - title: Company 6
         text: Shopify Inc.
-        icon: 6.jpg
+        icon: 66.png
         url: '#'
 
   - type: aside.html
