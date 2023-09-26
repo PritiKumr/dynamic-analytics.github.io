@@ -26,14 +26,14 @@ sections:
     services:
       - title: Data Science
         text: Art of data interpretation, AI, ML, and NLP, offering valuable insights from complex datasets
-        icon: bi-gem text-info
+        icon: bi bi-database-check
         url: https://startbootstrap.com/
       - title: Data Engineering
         text: Actionable insights from your data through advanced modeling and predictive analysis
         icon: bi-rocket-takeoff
       - title: Insurance Expertise
         text: Expertise in pricing, provisioning, contract and risk analysis for P&C insurance companies
-        icon: bi-activity
+        icon: bi bi-graph-up-arrow
       - title: Signal and Image Processing
         text: Expertise in signal and image processing for cutting-edge solutions in visual analysis and interpretation
         icon: bi bi-image
