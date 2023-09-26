@@ -57,30 +57,31 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Company 1
+        text: Allianz Global Corporate.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - text: This is a very short project description.
+      - title: Company 2
+        text: Allstate Corporation.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+      - title: Company 3
+        text: Toshiba Research Europe Ltd.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+      - title: Company 4
+        text: Deloitte.
         icon: 4.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+      - title: Company 5
+        text: Medical Imaging Research Center.
         icon: 5.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: Company 6
+        text: Shopify Inc.
         icon: 6.jpg
         url: '#'
 
