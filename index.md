@@ -50,7 +50,7 @@ sections:
     title: Our Team of Experts worked with
     actions:
       - title: See Below
-        url: https://startbootstrap.com/themes/creative/
+        url: '#timeline'
         class: btn-light
 
   - type: portfolio.html
