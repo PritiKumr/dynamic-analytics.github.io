@@ -35,4 +35,4 @@ sections:
   section_id: more-to-come
   title: Thank you !
 ---
-Here goes some raw markdown content.
+DYNAMIC ANALYTICS S.A.S.
