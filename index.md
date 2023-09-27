@@ -48,10 +48,6 @@ sections:
   - type: aside.html
     section_id: aside
     title: Our Team of Experts worked with
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
