@@ -28,15 +28,9 @@ sections:
 
 - type: paragraph.html
   section_id: help
-  title: Get some help!
+  title: Quote of the day!
   text: >+
-    There is a quick reference and showscase of Markdown Syntax Here:
-
-    * [Markdown Syntax Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-    * [John Gruber's original spec](http://daringfireball.net/projects/markdown/).
-
-    * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
+    Nothing endure but change
 
 - type: paragraph.html
   section_id: more-to-come
