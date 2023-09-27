@@ -83,7 +83,7 @@ sections:
         url: '#'
       - title: Company 6
         text: Shopify Inc.
-        icon: 66.jpeg
+        icon: 66.png
         url: '#'
 
   - type: aside.html
