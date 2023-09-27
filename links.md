@@ -25,10 +25,7 @@ sections:
     text: >
       United States: +1 (312) 945-6577<br/>
       Europe : +33 767226606
-  mail:
-    title: Mail
-    text: >
-      contact@dynamicanalytics.eu
+
 - type: paragraph.html
   section_id: help
   title: Get some help!
