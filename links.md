@@ -34,3 +34,9 @@ sections:
 - type: paragraph.html
   section_id: more-to-come
   title: Thank you !
+     class: btn-info
+     url: '#'
+
+
+---
+Here goes some raw markdown content.
