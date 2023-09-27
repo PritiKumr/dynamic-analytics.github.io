@@ -17,7 +17,7 @@ sections:
     text: At DYNAMIC ANALYTICS, we are passionate about data and technology. With years of experience in the field, our team of experts is committed to delivering innovative solutions that drive results for our clients.
     actions:
       - title: Get Started!
-        url: '#page-top'
+        url: '#services'
         class: btn-light
   - type: services.html
     section_id: services
@@ -48,6 +48,10 @@ sections:
   - type: aside.html
     section_id: aside
     title: Our Team of Experts worked with
+    actions:
+      - title: See Below
+        url: https://startbootstrap.com/themes/creative/
+        class: btn-light
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
