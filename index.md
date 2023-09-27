@@ -95,7 +95,7 @@ sections:
         text: Machine Learning & AI Expert
         image: assets/img/members/Mehdi.jpg
         url: '#'
-      - title: Marco De Virgolis
+      - title: Marco De Virgilis
         text: Data Science & Engineering Expert.
         image: assets/img/members/Marco.jpg
         url: '#'
