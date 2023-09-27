@@ -47,7 +47,7 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: Our Team of Experts worked with
     actions:
       - title: Download Now!
         url: https://startbootstrap.com/themes/creative/
@@ -58,30 +58,30 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Company 1
+      - title: 1
         text: Allianz Global Corporate.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 11.png
         url: '#'
-      - title: Company 2
+      - title: 2
         text: Toshiba Research Europe Ltd.
         icon: 22.png
         url: '#'
-      - title: Company 3
+      - title: 3
         text: Allstate Corporation.
         icon: 33.jpeg
         url: '#'
-      - title: Company 4
+      - title: 4
         text: Deloitte.
         icon: 44.png
         url: '#'
-      - title: Company 5
+      - title: 5
         text: Medical Imaging Research Center.
         icon: 55.jpeg
         url: '#'
-      - title: Company 6
+      - title: 6
         text: Shopify Inc.
         icon: 66.png
         url: '#'
