@@ -93,26 +93,26 @@ sections:
     members:
       - title: Mehdi Toumi
         text: Machine Learning & AI Expert
-        image: assets/img/members/person1.jpg
+        image: assets/img/members/Mehdi.jpg
         url: '#'
       - title: Marco De Virgolis
         text: Data Science & Engineering Expert.
-        image: assets/img/members/person2.jpg
+        image: assets/img/members/Marco.jpg
         url: '#'
       - title: Pia Lapeirt
-        text: Web Design Expert.
-        image: assets/img/members/person3.jpg
+        text: DataViz and Design Expert.
+        image: assets/img/members/Pia.jpg
         url: '#'
       - title: Preethi Kumar
         text: Full Stack Develloper.
-        image: assets/img/members/person5.jpg
+        image: assets/img/members/Preethi.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
+      - title: Taoufik El Hachimi
+        text: Full Stack Develloper.
         image: assets/img/members/person6.jpg
         url: '#'
       - title: Ella P. Walter
-        text: PR.
+        text: Communication officer
         image: assets/img/members/person7.jpg
         url: '#'
   
