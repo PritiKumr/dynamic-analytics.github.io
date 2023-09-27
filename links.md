@@ -13,7 +13,7 @@ sections:
 - type: address.html
   section_id: address
   title: You are welcome!
-  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1784803899586!2d-71.56614568458906!3d42.338717979188324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6335220b7c08850a!2sMarlborough%20District%20Court!5e0!3m2!1sen!2sbg!4v1583193778570!5m2!1sen!2sbg
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.4688123547394!2d2.3073060000000005!3d48.887402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fa35409d09f%3A0xbf6e678cb801f5d5!2s55%20Bd%20Pereire%2C%2075017%20Paris%2C%20France!5e0!3m2!1sen!2sus!4v1695833598066!5m2!1sen!2sus
   address:
     title: Address
     text: >
