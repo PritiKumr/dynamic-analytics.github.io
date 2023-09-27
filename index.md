@@ -71,7 +71,7 @@ sections:
         url: '#'
       - title: Company 3
         text: Allstate Corporation.
-        icon: 33.png
+        icon: 33.jpeg
         url: '#'
       - title: Company 4
         text: Deloitte.
