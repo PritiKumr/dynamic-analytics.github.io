@@ -47,7 +47,7 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Our Team of Experts worked with
+    title: Our Team of Experts worked for
     actions:
       - title: See Below
         url: '#timeline'
