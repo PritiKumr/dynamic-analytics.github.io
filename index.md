@@ -99,7 +99,7 @@ sections:
         text: Data Science & Engineering Expert.
         image: assets/img/members/Marco.jpg
         url: '#'
-      - title: Pia Lapeirt
+      - title: Pia Laipert
         text: DataViz and Design Expert.
         image: assets/img/members/Pia.jpg
         url: '#'
