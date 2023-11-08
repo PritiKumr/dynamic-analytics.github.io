@@ -111,9 +111,9 @@ sections:
         text: Full Stack Develloper.
         image: assets/img/members/person6.jpg
         url: '#'
-      - title: Ella P. Walter
+      - title: Assem Ameziane
         text: Communication officer
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Assem.jpg
         url: '#'
   
   - type: contact.html
