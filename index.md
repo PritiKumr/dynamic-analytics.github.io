@@ -123,7 +123,9 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (312) 945-6577
+    - title:
+      United States: +1 (312) 945-6577<br/>
+      Europe : +33 767226606
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
