@@ -123,7 +123,7 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +(33) 767226606 / +(1) 312 945657 
+    - title: +(33) 767226606 / +(44) 7759042822 / +(1) 312 945657 
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
