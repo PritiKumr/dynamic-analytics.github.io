@@ -96,12 +96,12 @@ sections:
         image: assets/img/members/Mehdi.jpg
         url: '#'
       - title: Marco De Virgilis
-        text: Data Science & Engineering Expert.
+        text: Data Science & DataViz Expert.
         image: assets/img/members/Marco.jpg
         url: '#'
-      - title: Pia Laipert
-        text: DataViz and Design Expert.
-        image: assets/img/members/Pia.jpg
+      - title: Assem Ameziane
+        text: Product Owner & Data Analyst
+        image: assets/img/members/Assem.jpg
         url: '#'
       - title: Preethi Kumar
         text: Full Stack Develloper.
@@ -109,11 +109,11 @@ sections:
         url: '#'
       - title: Taoufik El Hachimi
         text: Full Stack Develloper.
-        image: assets/img/members/person6.jpg
+        image: assets/img/members/Reda.jpg
         url: '#'
-      - title: Assem Ameziane
-        text: Communication officer
-        image: assets/img/members/Assem.jpg
+      - title: Pia Laipert
+        text: Communication Officer.
+        image: assets/img/members/Pia.jpg
         url: '#'
   
   - type: contact.html
