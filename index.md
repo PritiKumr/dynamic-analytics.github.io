@@ -92,7 +92,7 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Mehdi Toumi
-        text: Machine Learning & AI Expert
+        text: Data Scientist/Analyst & AI Expert
         image: assets/img/members/Mehdi.jpg
         url: '#'
       - title: Marco De Virgilis
