@@ -101,7 +101,7 @@ sections:
         url: '#'
       - title: Michael Dassouli
         text: Product Owner Data
-        image: assets/img/members/Assem.jpg
+        image: assets/img/members/aymane.jpg
         url: '#'
       - title: Preethi Kumar
         text: Full Stack Develloper.
