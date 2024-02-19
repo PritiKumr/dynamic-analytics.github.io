@@ -99,8 +99,8 @@ sections:
         text: Data Science & DataViz Expert.
         image: assets/img/members/Marco.jpg
         url: '#'
-      - title: Assem Ameziane
-        text: Product Owner & Data Analyst
+      - title: Michael Dassouli
+        text: Product Owner Data
         image: assets/img/members/Assem.jpg
         url: '#'
       - title: Preethi Kumar
