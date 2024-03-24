@@ -1,10 +1,10 @@
 ---
 layout: home
+background_style: bg-dark
 header:
-  title: WELCOME TO DYNAMIC ANALYTICS
-  text: >
-    your trusted partner for data engineering, modeling, predictive analysis, IT    
-    development and more. 
+  title: DYNAMIC ANALYTICS
+  text: 
+    Your trusted partner for data engineering, modeling, predictive analytics, IT development and more.  
     Unlock the potential of your company with our expertise.
   action: # action button is optional
     label: ABOUT US
@@ -13,41 +13,44 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: Our Mission, To empower organizations with data-driven insights!
-    text: At DYNAMIC ANALYTICS, we are passionate about data and technology. With years of experience in the field, our team of experts is committed to delivering innovative solutions that drive results for our clients.
+    title: Our Mission&#58;
+    subtitle: Through innovative analytics solutions and advanced technologies, we aim to empower organizations with data-driven insights to bolster informed decision-making, enhance operational efficieny, and fuel sustainable growth for our clients.
+    text: At Dynamic Analytics, we are passionate about data and technology. With years of experience in the field, our team of experts is committed to delivering innovative solutions that drive results. We are committed to delivering superior value and exceptional service while upholding the highest standards of integrity, accuracy, and confidentiality. Together, we transform data into opportunities. 
     actions:
-      - title: Get Started!
+      - title: Learn More
         url: '#services'
         class: btn-light
   - type: services.html
     section_id: services
-    #background_style: bg-info
+    # background_style: bg-info
     title: Our Services
     services:
       - title: Data Science
-        text: Art of data interpretation, AI, ML, and NLP, offering valuable insights from complex datasets
-        icon: bi bi-database-check
-        url: https://startbootstrap.com/
+        text: The art of data interpretation offering valuable insights from complex datasets
+        icon: bi bi-activity
+        # url: https://startbootstrap.com/
       - title: Data Analysis
         text: Actionable insights from your data through advanced modeling and predictive analysis
         icon: bi bi-gear
       - title: Risk Analysis & Pricing
-        text: Expertise in pricing, provisioning, contract and risk analysis for P&C insurance companies
+        text: Expertise in pricing, provisioning and risk analysis for P&C insurance companies
         icon: bi bi-graph-up-arrow
       - title: AI Computer Vision
-        text: Expertise in signal and image processing for cutting-edge solutions in visual analysis and interpretation
+        text: Expertise in signal and image processing for cutting-edge solutions in visual analysis
         icon: bi bi-image
       - title: Software Development
         text: Expertise in  IT software, web and mobile applications
         icon: bi bi-code-slash
       - title: Project Management
-        text: Project management services. Support for IT projects and research projects
-        icon: bi bi-person-fill-check
-
-
+        text: Project management services. Support for IT and research projects
+        icon: bi bi-person-check
+      - title: Recommender Systems
+        text: Enhancing your E-Commerce customer engagement
+        icon: bi bi-cart2
+        
   - type: aside.html
     section_id: aside
-    title: Our Team of Experts worked for
+    title: Our team of experts worked for
     actions:
       - title: See Below
         url: '#timeline'
@@ -56,76 +59,101 @@ sections:
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
-    #background_style: bg-dark
+    background_style: bg-dark
     projects:
-      - title: 1
-        text: Allianz Global Corporate.
+      - title: 
+        text: 
         # the images are located in:
-        # img/portfolio/fullsize
+        # 
         # img/portfolio/thumbnails
-        icon: 11.png
-        url: '#'
-      - title: 2
-        text: Toshiba Research Europe Ltd.
-        icon: 22.png
-        url: '#'
-      - title: 3
-        text: Allstate Corporation.
-        icon: 33.jpeg
-        url: '#'
-      - title: 4
-        text: Deloitte.
-        icon: 44.png
-        url: '#'
-      - title: 5
-        text: Medical Imaging Research Center.
-        icon: 55.jpeg
-        url: '#'
-      - title: 6
-        text: Shopify Inc.
-        icon: 66.png
-        url: '#'
+        icon: assets/img/portfolio/allianz.png
+        # url: '#'
+      - title: 
+        text: 
+        icon: assets/img/portfolio/toshiba.png
+        # url: '#'
+      - title: 
+        text: 
+        icon: assets/img/portfolio/allstate.png
+        # url: '#'
+      - title: 
+        text: 
+        icon: assets/img/portfolio/deloitte.png
+        # url: '#'
+      - title: 
+        text: 
+        icon: assets/img/portfolio/iitri.png
+        # url: '#'
+      - title: 
+        text: 
+        icon: assets/img/portfolio/shopify.png
+        # url: '#'
+      - title: 
+        text: 
+        icon: assets/img/portfolio/ratp.png
+        # url: '#'
+      - title: 
+        text: 
+        icon: assets/img/portfolio/groupon.png
+        # url: '#'
 
   - type: members.html
     section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
+    title: Who we are
+    background_style: bg-primary text-white
+    # members_main:
+    #   - title: Mehdi Toumi
+    #     text: Data Scientist & AI Expert
+    #     image: assets/img/members/Mehdi.jpg
+    #     # url: '#'
+    #   - title: Marco De Virgilis
+    #     text: Data Science & Data Visualization Expert
+    #     image: assets/img/members/Marco.jpg
+    #     # url: '#'
     members:
       - title: Mehdi Toumi
-        text: Data Scientist/Analyst & AI Expert
+        text: Data Scientist & AI Expert
         image: assets/img/members/Mehdi.jpg
-        url: '#'
+        # url: '#'
       - title: Marco De Virgilis
-        text: Data Science & DataViz Expert.
+        text: Data Science & Data Visualization Expert
         image: assets/img/members/Marco.jpg
-        url: '#'
+        # url: '#'
       - title: Michael Dassouli
-        text: Product Owner Data
+        text: Product Owner
         image: assets/img/members/aymane1.jpg
-        url: '#'
+        # url: '#'
       - title: Preethi Kumar
-        text: Full Stack Develloper.
+        text: Full Stack Developer
         image: assets/img/members/Preethi.jpg
-        url: '#'
+        # url: '#'
       - title: Taoufik El Hachimi
-        text: Full Stack Develloper.
+        text: Full Stack Developer
         image: assets/img/members/Reda.jpg
-        url: '#'
+        # url: '#'
       - title: Pia Laipert
-        text: Communication Officer.
+        text: Communications Officer
         image: assets/img/members/Pia.jpg
-        url: '#'
+        # url: '#'
+      - title: Assem Ameziane
+        text: Product Owner - Data
+        image: assets/img/members/Assem.jpg
   
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Let's Get In Touch
     text: >-
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +(33) 767226606 / +(44) 7759042822 / +(1) 312 945657 
-      icon: bi-telephone-fill
+    - title: +(33) 767226606 
+    # <br> +(44) 7759042822 <br> +(1) 312 945657 
+      icon: bi bi-telephone
+      url: tel:+33767226606
     - title: E-Mail
-      icon: bi-envelope-fill
+      icon: bi bi-envelope
       url: mailto:contact@dynamicanalytics.eu
+    - title: Linkedin
+      icon: bi bi-linkedin
+      url: https://www.linkedin.com/company/dynamic-analytics-eu
 ---
