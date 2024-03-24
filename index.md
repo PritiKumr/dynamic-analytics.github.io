@@ -63,9 +63,10 @@ sections:
     projects:
       - title: 
         text: 
-        # the images are located in:
-        # 
-        # img/portfolio/thumbnails
+        icon: assets/img/portfolio/ratp.png
+        # url: '#'
+      - title: 
+        text: 
         icon: assets/img/portfolio/allianz.png
         # url: '#'
       - title: 
@@ -82,19 +83,15 @@ sections:
         # url: '#'
       - title: 
         text: 
-        icon: assets/img/portfolio/iitri.png
-        # url: '#'
-      - title: 
-        text: 
         icon: assets/img/portfolio/shopify.png
         # url: '#'
       - title: 
         text: 
-        icon: assets/img/portfolio/ratp.png
+        icon: assets/img/portfolio/groupon.png
         # url: '#'
       - title: 
         text: 
-        icon: assets/img/portfolio/groupon.png
+        icon: assets/img/portfolio/iitri.png
         # url: '#'
 
   - type: members.html
@@ -147,9 +144,14 @@ sections:
       and we will get back to you as soon as possible!
     actions:
     - title: +(33) 767226606 
-    # <br> +(44) 7759042822 <br> +(1) 312 945657 
       icon: bi bi-telephone
       url: tel:+33767226606
+    - title: +(44) 7759042822
+      icon: bi bi-telephone
+      url: tel:+4407759042822
+    - title: +(1) 312 945657 
+      icon: bi bi-telephone
+      url: tel:+1312945657 
     - title: E-Mail
       icon: bi bi-envelope
       url: mailto:contact@dynamicanalytics.eu
