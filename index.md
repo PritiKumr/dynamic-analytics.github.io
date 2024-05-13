@@ -14,8 +14,8 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Our Mission&#58;
-    subtitle: Through innovative analytics solutions and advanced technologies, we aim to empower organizations with data-driven insights to bolster informed decision-making, enhance operational efficieny, and fuel sustainable growth for our clients.
-    text: At Dynamic Analytics, we are passionate about data and technology. With years of experience in the field, our team of experts is committed to delivering innovative solutions that drive results. We are committed to delivering superior value and exceptional service while upholding the highest standards of integrity, accuracy, and confidentiality. Together, we transform data into opportunities. 
+    subtitle: Through innovative analytics solutions and advanced technologies, we aim to empower organizations with data-driven insights.
+    text: With years of experience in the field, our team of experts is committed to delivering innovative solutions that drive results, deliver superior value and exceptional services. 
     actions:
       - title: Learn More
         url: '#services'
