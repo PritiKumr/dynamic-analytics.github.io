@@ -89,9 +89,9 @@ sections:
         text: 
         icon: assets/img/portfolio/groupon.png
         # url: '#'
-      - title: 
-        text: 
-        icon: assets/img/portfolio/iitri.png
+      # - title: 
+      #   text: 
+      #   icon: assets/img/portfolio/iitri.png
         # url: '#'
 
   - type: members.html
