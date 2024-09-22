@@ -108,9 +108,9 @@ sections:
     #     image: assets/img/members/Marco.jpg
     #     # url: '#'
     members:
-      - title: Mehdi Toumi
-        text: Data Scientist & AI Expert
-        image: assets/img/members/Mehdi.jpg
+      # - title: Mehdi Toumi
+      #   text: Data Scientist & AI Expert
+      #   image: assets/img/members/Mehdi.jpg
         # url: '#'
       - title: Marco De Virgilis
         text: Data Science & Data Visualization Expert

@@ -2,7 +2,7 @@
 
 if [ -z "$1" ]; then
   docker pull jekyll/builder:pages
-  docker run -it --rm \
+  docker run --security-opt apparmor=unconfined -it --rm \
     --workdir /srv/jekyll \
     --volume="$PWD:/srv/jekyll:Z" \
     --volume="$PWD/vendor/bundle:/usr/local/bundle:Z" \
