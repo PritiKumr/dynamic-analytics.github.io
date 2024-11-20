@@ -108,13 +108,13 @@ sections:
     #     image: assets/img/members/Marco.jpg
     #     # url: '#'
     members:
-      # - title: Mehdi Toumi
-      #   text: Data Scientist & AI Expert
-      #   image: assets/img/members/Mehdi.jpg
+      - title: Mehdi Toumi
+        text: Data Scientist & AI Expert
+        image: assets/img/members/Mehdi.jpg
         # url: '#'
-      - title: Marco De Virgilis
-        text: Data Science & Data Visualization Expert
-        image: assets/img/members/Marco.jpg
+      # - title: Marco De Virgilis
+      #   text: Data Science & Data Visualization Expert
+      #   image: assets/img/members/Marco.jpg
         # url: '#'
       - title: Michael Dassouli
         text: Product Owner
@@ -128,9 +128,9 @@ sections:
         text: Full Stack Developer
         image: assets/img/members/Reda.jpg
         # url: '#'
-      - title: Pia Laipert
-        text: Communications Officer
-        image: assets/img/members/Pia.jpg
+      # - title: Pia Laipert
+      #   text: Communications Officer
+      #   image: assets/img/members/Pia.jpg
         # url: '#'
       - title: Assem Ameziane
         text: Product Owner - Data
